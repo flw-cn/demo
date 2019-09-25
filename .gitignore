@@ -1,0 +1,9 @@
+/.dapper
+/.cache
+/bin
+/dist
+*.swp
+.idea
+/vendor/
+/pkg/**/zz_generated_*.go
+/pkg/generated/
